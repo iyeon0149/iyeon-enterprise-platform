@@ -1,0 +1,2 @@
+-- Placeholder for Supabase schema migrations.
+-- Enterprise DB tables can be added in the next sprint.
